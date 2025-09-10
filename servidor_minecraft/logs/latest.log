@@ -1,0 +1,51 @@
+[01:01:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:01:09] [ServerMain/INFO]: No existing world data, creating new world
+[01:01:10] [ServerMain/INFO]: Loaded 1407 recipes
+[01:01:10] [ServerMain/INFO]: Loaded 1520 advancements
+[01:01:10] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:01:10] [Server thread/INFO]: Loading properties
+[01:01:10] [Server thread/INFO]: Default game type: SURVIVAL
+[01:01:10] [Server thread/INFO]: Generating keypair
+[01:01:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:01:11] [Server thread/INFO]: Using epoll channel type
+[01:01:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:01:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:01:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:01:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:01:11] [Server thread/INFO]: Preparing level "world"
+[01:01:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:01:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:01:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:01:18] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:01:20] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:01:20] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[01:01:21] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[01:01:21] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[01:01:22] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[01:01:22] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:01:23] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:01:23] [Server thread/INFO]: Time elapsed: 5570 ms
+[01:01:23] [Server thread/INFO]: Done (12.190s)! For help, type "help"
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: ^Cobject address  : 0x7d6d10efb9a0<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: object refcount : 3<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: object type     : 0x7d6d1378e3a0<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: object type name: KeyboardInterrupt<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: object repr     : KeyboardInterrupt()<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: lost sys.stderr<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: [PYI-5804:ERROR] Failed to execute script 'minified_py' due to unhandled exception!<--[HERE]
+[01:01:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:23] [Server thread/INFO]: ^C@Saikayen ➜ /workspaces/Tung-Tung-Sahur (main) $ ^C<--[HERE]
+[01:02:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:02:26] [Server thread/INFO]: Sraut0placer[/127.50.239.183:45727] logged in with entity id 3 at (1.5, 104.0, 2.5)
+[01:02:26] [Server thread/INFO]: Sraut0placer joined the game
+[01:02:32] [Server thread/INFO]: Sraut0placer lost connection: Disconnected
+[01:02:32] [Server thread/INFO]: Sraut0placer left the game
